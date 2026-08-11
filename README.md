@@ -11,7 +11,7 @@ El dataset `TomTom Traffic Index` incluye 1.004.464 registros de mobilidad y el 
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
-[![Open In Colab](https://colab.research.google.com/gist/DA-CristianGutierrez/b0e23c933ff0dd9c657177d8a0e14155/s5-ladb_mobility_economy_project_student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/DA-CristianGutierrez/b0e23c933ff0dd9c657177d8a0e14155/s5-ladb_mobility_economy_project_student.ipynb)
 
 o:
 
