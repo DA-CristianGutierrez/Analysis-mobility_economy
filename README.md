@@ -63,10 +63,14 @@ Herramientas y tipo de proyecto
 
 <img width="739" height="566" alt="image" src="https://github.com/user-attachments/assets/360506c4-1ae0-4036-9e58-808defbdb17d" />
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 2.	Histograma del PIB per capita en 2024: Gran parte de las mediciones indican que la distribución se concentra más aproximadamente entre los 7.000 y los 17.000 USD per capita. Sin embargo, existe un número considerable de registros, los cuales se alejan de los más concentrados que no sobrepasan los 5.000 USD y otros que redondean los 25.000 USD.
+
 
 <img width="748" height="492" alt="image" src="https://github.com/user-attachments/assets/0a2d0dea-f0d9-4fb4-bbc8-b87557143ef4" />
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 3.	Gráfico relación tráfico – Desarrollo PIB: Observamos ejemplo claros de países que tienen un gran desarrollo económico pero entre ellos difiere el promedio en tráfico, de la misma manera que sucede entre los países con un desarrollo económico bajo registrando altos y bajos niveles de tráfico. 
 
@@ -74,8 +78,11 @@ Herramientas y tipo de proyecto
 <img width="747" height="641" alt="image" src="https://github.com/user-attachments/assets/3a744388-db56-4635-a516-d91b2df7d067" />
 
 ## Conclusiones y recomendaciones
+
 Correlación entre tráfico y desarrollo económico: no existe una estricta relación entre productividad económica y movilidad urbana ya que no existe una proporción uniforme en países que tienen valores similares en una métrica y en otra existen diferencias considerables.
-Acciones recomendadas: 
+
+Acciones recomendadas:
+
 •	Es necesario revisar las fuentes de información para descartar imprecisiones en los resultados. 
 •	Considerar otras variables como el desarrollo de infraestructura en las ciudades evaluadas, así como la tendencia en las actividades económicas que se desarrollan respectivamente. 
 •	De igual manera, considerar una inversión para el desarrollo de infraestructura en ciudades como Santiago, donde el tráfico es crítico y su baja economía pueda impedir una mejora en la calidad de transporte.
