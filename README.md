@@ -28,10 +28,7 @@ o:
 
 ## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Segmentar y agrupar datos y unir fuentes de información
-- Analizar la correlación y patrones entre ambos datasets
-- Generar insights para determinar inversiones necesarias
+Entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades del mundo. Esto con el fin de determinar en qué ciudades invertir en infraestructura de transporte para aumentar la productividad y el bienestar de la población.
   
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Análisis de relación entre tráfico y productividad económica
