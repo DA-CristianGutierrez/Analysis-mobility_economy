@@ -36,15 +36,10 @@ o:
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Análisis de relación entre tráfico y productividad económica
 
-En este proyecto analicé la existencia entre indicadores de tráfico en cuanto a movilidad urbana y productividad económica (PIB) en las principales ciudades de Latinoamérica en el año 2024. Realicé un cruce de información entre ambas fuentes de información mediante Python y Pandas para determinar si había una correlación directa. Finalmente identifiqué en qué ciudades es conveniente invertir en infraestructura de transporte con el fin de mejorar la calidad de vida de las personas y aumentar la productividad económica.
-Herramientas y tipo de proyecto
-
--	Problema: Identificar en qué ciudades invertir en infraestructura de transporte para mejorar la productividad y el bienestar de la población.
--	Acción: Crucé datos de tráfico de TomTom con indicadores económicos de la OECD usando Python y Pandas.
--	Resultado o aprendizaje: Identifiqué la relación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
+En este proyecto analicé la existencia entre indicadores de tráfico en cuanto a movilidad urbana y productividad económica (PIB) en las principales ciudades de Latinoamérica durante el 2024. Realicé un cruce de información entre ambas fuentes mediante Python y Pandas para determinar si había una correlación directa. Finalmente identifiqué en qué ciudades es conveniente invertir en infraestructura de transporte con el fin de mejorar la calidad de vida de las personas y aumentar la productividad económica.
 
 
-## 🛠️ Skills:
+## 🛠️ Herramientas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -53,9 +48,9 @@ Herramientas y tipo de proyecto
 
 
 ## Metodología
-•	Procesamiento de datos: se limpiaron y estandarizaron los datos, eliminando duplicados, renombrando columnas, transformando tipos de datos a formato fecha y decimales respectivamente.
-•	Agrupación de datos: Se calcularon nuevas columnas empatando columnas clave en los dos DataFrames y se filtró y agrupó la información clave.
-•	Unión de tablas: Se combinaron los dos Dataframes en una sola tabla para proceder con la visualización y análisis de los datos obtenidos.
+-	Procesamiento de datos: se limpiaron y estandarizaron los datos, eliminando duplicados, renombrando columnas, transformando tipos a formato fecha y decimales respectivamente.
+-	Agrupación de datos: Se calcularon nuevas columnas empatando columnas clave en los dos DataFrames y se filtró y agrupó la información clave.
+-	Unión de tablas: Se combinaron los dos Dataframes en una sola tabla para proceder con la visualización y análisis de los datos obtenidos.
 
 ## Visualizaciones destacadas
 1.	Diagrama en tiempos de tráfico: Incialmente se encontró un valor atípico que se encuentra aislado del extremo superior o valores máximos en el diagrama. A su vez estos valores del extremo superior se alejan de la mediana y de los cuartiles evidenciando una brecha significativa entre las mediciones.  
@@ -72,7 +67,7 @@ Herramientas y tipo de proyecto
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-3.	Gráfico relación tráfico – Desarrollo PIB: Observamos ejemplo claros de países que tienen un gran desarrollo económico pero entre ellos difiere el promedio en tráfico, de la misma manera que sucede entre los países con un desarrollo económico bajo registrando altos y bajos niveles de tráfico. 
+3.	Gráfico relación tráfico – Desarrollo PIB: Observamos ejemplos claros de países que tienen un gran desarrollo económico pero entre ellos difiere el promedio en tráfico, de la misma manera que sucede entre los países con un desarrollo económico bajo registrando altos y bajos niveles de tráfico. 
 
 
 <img width="747" height="641" alt="image" src="https://github.com/user-attachments/assets/3a744388-db56-4635-a516-d91b2df7d067" />
@@ -83,6 +78,6 @@ Correlación entre tráfico y desarrollo económico: no existe una estricta rela
 
 Acciones recomendadas:
 
-•	Es necesario revisar las fuentes de información para descartar imprecisiones en los resultados. 
-•	Considerar otras variables como el desarrollo de infraestructura en las ciudades evaluadas, así como la tendencia en las actividades económicas que se desarrollan respectivamente. 
-•	De igual manera, considerar una inversión para el desarrollo de infraestructura en ciudades como Santiago, donde el tráfico es crítico y su baja economía pueda impedir una mejora en la calidad de transporte.
+-	Es necesario revisar las fuentes de información para descartar imprecisiones en los resultados. 
+-	Considerar otras variables como el desarrollo de infraestructura en las ciudades evaluadas, así como la tendencia en las actividades económicas que se desarrollan respectivamente. 
+-	De igual manera, considerar una inversión para el desarrollo de infraestructura en ciudades como Santiago, donde el tráfico es crítico y su baja economía pueda impedir una mejora en la calidad de transporte.
