@@ -26,11 +26,12 @@ o:
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
+----------------------------------------------------------------------------------------------------------------------------------------
 ## 🧠 Objetivo del análisis
 
 Entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades del mundo. Esto con el fin de determinar en qué ciudades invertir en infraestructura de transporte para aumentar la productividad y el bienestar de la población.
   
-----------------------------------------------------------------------------------------------------------------------------------------
+
 ## Análisis de relación entre tráfico y productividad económica
 
 En este proyecto analicé la existencia entre indicadores de tráfico en cuanto a movilidad urbana y productividad económica (PIB) en las principales ciudades de Latinoamérica durante el 2024. Realicé un cruce de información entre ambas fuentes mediante Python y Pandas para determinar si había una correlación directa. Finalmente identifiqué en qué ciudades es conveniente invertir en infraestructura de transporte con el fin de mejorar la calidad de vida de las personas y aumentar la productividad económica.
