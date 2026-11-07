@@ -1,7 +1,5 @@
 # Analysis-mobility_economy
 
-Este repositorio contiene el análisis realizado durante el Sprint 5 del caso mobilidad y economia en América Latina.
-
 El dataset `TomTom Traffic Index` incluye 1.004.464 registros de mobilidad y el dataset `OECD Cities` contiene 30 registros que representan el PIB en cada país incluido, con problemas de calidad diseñados para simular datos reales de ambas mediciones.
 
 ## 📂 Contenido del repositorio
